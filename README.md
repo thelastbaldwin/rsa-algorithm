@@ -32,6 +32,9 @@ totient = 160
 `E` = 159
 `D` = 31679
 
+Original Message: secret squirrel
+Secret Message: [174, 50, 11, 146, 50, 79, 76, 174, 48, 8, 57, 146, 146, 50, 71]
+Decrypted Message: secret squirrel
 
 ## Notes: 
 You can encrpyt with the private key to verify the sender, although the normal method is to use the public key to encrypt and the private to decrpyt
